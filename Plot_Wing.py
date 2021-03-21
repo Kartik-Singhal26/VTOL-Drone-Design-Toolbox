@@ -90,4 +90,5 @@ plt.plot()
 plt.legend()
 plt.grid()
 plt.show()
-    
+
+print(Wing_Choice)   
